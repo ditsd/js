@@ -18,7 +18,7 @@ describe("myFunction", function() {
     it("should populate stuff during initialization", function(){
 		myfunc.init();
         expect(myfunc.stuff.length).toEqual(1);
-        expect(myfunc.stuff[0]).toEqual('Testing2.');
+        expect(myfunc.stuff[0]).toEqual('Testing2');
     });
     //will insert additional tests here later
 });
