@@ -6,6 +6,7 @@ NS.myFunction = {
     init: function init() {
         this.stuff.push('Testing');
     },
+
     reset: function reset() {
         this.stuff = [];
     },
