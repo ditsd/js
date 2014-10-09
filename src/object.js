@@ -4,7 +4,7 @@ NS.myFunction = {
     //empty stuff array, filled during initialization
     stuff: [],
     init: function init() {
-        this.stuff.push('Testing2');
+        this.stuff.push('Testing3');
     },
     reset: function reset() {
         this.stuff = [];
