@@ -1,3 +1,3 @@
 function helloWorldtmp() {
-    return "Hello world!tmp" aa;
+    return "Hello world!tmp";
 }
