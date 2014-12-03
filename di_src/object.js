@@ -11,7 +11,6 @@ NS.myFunction = {
     },
     //will add new functionality here later
     
-    
 };
 
 
