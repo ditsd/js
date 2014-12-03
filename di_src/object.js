@@ -10,8 +10,6 @@ NS.myFunction = {
         this.stuff = [];
     },
     //will add new functionality here later
-    
-    
 };
 
 
